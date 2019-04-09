@@ -13,6 +13,6 @@ Use **FASM**
 
 ***Restrictions***
 
-No S.M.A.R.T. Only surface scann to detect bad blocks
+No S.M.A.R.T. Only disk surface checking to detect bad blocks
 
 ![DiskTest](https://raw.githubusercontent.com/dx8vb/DiskTest/master/disktest.png)
