@@ -11,4 +11,8 @@ chainloader --force --load-segment=0x0 --load-offset=0x8000 --boot-cs=0x800 --bo
 
 Use **FASM**
 
+***Restrictions***
+
+No S.M.A.R.T. Only surface scann to detect bad blocks
+
 ![DiskTest](https://raw.githubusercontent.com/dx8vb/DiskTest/master/disktest.png)
