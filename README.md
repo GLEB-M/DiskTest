@@ -7,4 +7,8 @@ title DiskTest
 chainloader --force --load-segment=0x0 --load-offset=0x8000 --boot-cs=0x800 --boot-ip=0x0 /disktest.bin
 ```
 
+***Build***
+
+Use **FASM**
+
 ![DiskTest](https://raw.githubusercontent.com/dx8vb/DiskTest/master/disktest.png)
