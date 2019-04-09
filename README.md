@@ -1,5 +1,5 @@
 # DiskTest
-Disk drive surface testing using BIOS Enhanced Disk Drive Services
+**Disk drive surface testing using BIOS Enhanced Disk Drive Services**
 
 ***Run via GRUB***
 ```
